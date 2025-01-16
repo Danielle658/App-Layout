@@ -1,6 +1,6 @@
-# myapp
+# APP Layout
 
-A new Flutter project.
+Atividade do módulo 2 do Curso Talento Tech. Atividade da disciplina 11- Desenvolvimento Web.
 
 ## Getting Started
 
